@@ -363,7 +363,7 @@ $ docker ps -f name=training
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 ```
 
-## Summary
+## Next Steps
 
 In this guide you installed Terraform, created a configuration, and provisioned infrastructure via the Terraform CLI. Continue learning the basics with the [Get Started Tutorials](https://developer.hashicorp.com/terraform/tutorials).
 
